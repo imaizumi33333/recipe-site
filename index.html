@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>私のレシピ帳</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>私のレシピ帳</h1>
+    <p>お気に入りのレシピをまとめました</p>
+  </header>
+
+  <div class="container">
+    <div class="tag-filter">
+      <h2>タグで絞り込む</h2>
+      <div class="tag-list" id="tag-list"></div>
+    </div>
+
+    <div class="recipe-grid" id="recipe-grid"></div>
+  </div>
+
+  <!-- レシピ詳細モーダル -->
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="modal-content"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
