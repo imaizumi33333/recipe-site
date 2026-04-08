@@ -4,7 +4,7 @@ let recipes = [
   {
     "id": 1,
     "name": "いちごチョコクッキー",
-    "photo": "",
+    "photo": "photos/いちごクッキー.JPG",
     "servings": "9枚分",
     "tags": ["スイーツ", "春", "クッキー"],
     "oven": { "temperature": 180, "time": "15分（焼き色がなければ+3分）" },
@@ -28,7 +28,7 @@ let recipes = [
   {
     "id": 2,
     "name": "ハンバーガー",
-    "photo": "",
+    "photo": "photos/ハンバーガー.JPG",
     "servings": "6個分",
     "tags": ["パーティー", "パン"],
     "oven": { "temperature": 210, "time": "15分" },
@@ -56,7 +56,7 @@ let recipes = [
   {
     "id": 3,
     "name": "チョコレートサブレ",
-    "photo": "",
+    "photo": "photos/チョコサブレ.jpg",
     "servings": "9枚分（15cm角型1枚を3×6でカット×2枚）",
     "tags": ["スイーツ", "クッキー", "チョコ"],
     "oven": { "temperature": 170, "time": "25分" },
@@ -80,7 +80,7 @@ let recipes = [
   {
     "id": 4,
     "name": "バターチキンカレー",
-    "photo": "",
+    "photo": "photos/バターチキン.jpg",
     "servings": "5人分",
     "tags": ["パーティー", "カレー"],
     "oven": null,
@@ -121,7 +121,7 @@ let recipes = [
   {
     "id": 5,
     "name": "プリン",
-    "photo": "",
+    "photo": "photos/プリン.JPG",
     "servings": "10個分",
     "tags": ["スイーツ", "定番"],
     "oven": { "temperature": 160, "time": "25分（湯煎焼き）" },
@@ -145,7 +145,7 @@ let recipes = [
   {
     "id": 6,
     "name": "クレープ",
-    "photo": "",
+    "photo": "photos/クレープ.JPG",
     "servings": "24cm 12枚分",
     "tags": ["スイーツ", "定番"],
     "oven": null,
@@ -166,7 +166,7 @@ let recipes = [
   {
     "id": 7,
     "name": "ふきみそ",
-    "photo": "",
+    "photo": "photos/ふきみそ.jpg",
     "servings": "味噌一パック分",
     "tags": ["春", "ソース"],
     "oven": null,
@@ -184,7 +184,7 @@ let recipes = [
   {
     "id": 8,
     "name": "肉まん",
-    "photo": "",
+    "photo": "photos/肉まん.jpg",
     "servings": "16個分",
     "tags": ["パーティー", "せいろ"],
     "oven": null,
